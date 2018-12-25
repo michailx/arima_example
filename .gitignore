@@ -1,0 +1,5 @@
+# All files in directories #
+/.idea/**
+
+# Python byte code #
+*.pyc
